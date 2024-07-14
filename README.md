@@ -5,9 +5,9 @@
 <br>⚡ **Fun fact:**  <br>I love cooking.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([www.linkedin.com/in/anush-rathod](https://www.linkedin.com/in/anush-rathod/)) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/26361620/anush-rathore)) 
+## 🌐 Socials:	
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anush-rathod/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26361620/anush-rathore?tab=profile)
 
 
 # 💻 Tech Stack:
